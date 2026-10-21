@@ -4,8 +4,8 @@ PROG2006 A2 Firefly interactive storybook Unity WebGL project
 Unity 2D interactive children storybook, mobile portrait 9:16, WebGL build.
 
 ## Links
-- GitHub Source Repository: https://github.com/你的用户名/Firefly-Storybook
-- Live Demo (GitHub Pages): https://你的用户名.github.io/Firefly-Storybook/
+- GitHub Source Repository: https://github.com//Firefly-Storybook
+- Live Demo (GitHub Pages): https://060104-hwb.github.io/Firefly-Storybook/
 
 ## Project Info
 - Engine: Unity 2022.3 LTS
